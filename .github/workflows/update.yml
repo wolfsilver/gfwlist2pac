@@ -1,6 +1,9 @@
 name: Auto update
 
 on:
+  push:
+    paths:
+      - 'user-rule.txt'
   schedule:
     - cron: '33 3 * * *'
   workflow_dispatch:
