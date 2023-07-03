@@ -27,7 +27,7 @@
 ! ||google.com
 ! ||wikipedia.org
 
-@@||registry.npmjs.org
+npmjs.org
 unpkg.com
 msecnd.net
 visualstudio.com
