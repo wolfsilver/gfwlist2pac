@@ -27,6 +27,7 @@
 ! ||google.com
 ! ||wikipedia.org
 
+ant.design
 npmjs.org
 unpkg.com
 msecnd.net
