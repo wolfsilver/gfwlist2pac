@@ -3,6 +3,7 @@ var rules = [
     [
         [],
         [
+            "ant.design",
             "msecnd.net",
             "npmjs.org",
             "olelive.com",
