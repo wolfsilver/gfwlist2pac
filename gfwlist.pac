@@ -7,6 +7,7 @@ var rules = [
             "msecnd.net",
             "npmjs.org",
             "olelive.com",
+            "stackoverflow.com",
             "unpkg.com",
             "visualstudio.com"
         ]
