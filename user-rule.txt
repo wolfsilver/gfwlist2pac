@@ -34,3 +34,4 @@ msecnd.net
 visualstudio.com
 olelive.com
 cdn.sstatic.net
+gitlab.com
