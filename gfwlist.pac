@@ -4,6 +4,7 @@ var rules = [
         [],
         [
             "ant.design",
+            "gitlab.com",
             "msecnd.net",
             "npmjs.org",
             "olelive.com",
