@@ -35,3 +35,4 @@ visualstudio.com
 olelive.com
 cdn.sstatic.net
 gitlab.com
+cloudflare.com
