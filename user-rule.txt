@@ -36,3 +36,4 @@ olelive.com
 cdn.sstatic.net
 gitlab.com
 cloudflare.com
+npmjs.com
