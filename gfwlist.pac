@@ -7,6 +7,7 @@ var rules = [
             "cloudflare.com",
             "gitlab.com",
             "msecnd.net",
+            "npmjs.com",
             "npmjs.org",
             "olelive.com",
             "sstatic.net",
