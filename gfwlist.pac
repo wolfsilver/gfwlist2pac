@@ -10,6 +10,7 @@ var rules = [
             "npmjs.com",
             "npmjs.org",
             "olelive.com",
+            "pnpm.io",
             "sstatic.net",
             "unpkg.com",
             "visualstudio.com"
