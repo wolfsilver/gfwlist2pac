@@ -5,6 +5,7 @@ var rules = [
         [
             "ant.design",
             "cloudflare.com",
+            "cnbeta.com.tw",
             "gitlab.com",
             "msecnd.net",
             "npmjs.com",
