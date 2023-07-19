@@ -38,3 +38,4 @@ gitlab.com
 cloudflare.com
 npmjs.com
 pnpm.io
+cnbeta.com.tw
