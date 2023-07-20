@@ -56,7 +56,7 @@ jobs:
 
       - name: Push
         run: |
-          sed -i "1i\\/\/ update $(LANG=C date)\n" gfwlist.pac
+          sed -i "1i\\/\/ Last Modified: $(LANG=C date)\n" gfwlist.pac
           git config --global user.name 'wolfsilver'
           git config --global user.email 'wolfsilver@users.noreply.github.com'
           git add gfwlist.pac
