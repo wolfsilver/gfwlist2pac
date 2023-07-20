@@ -31,9 +31,9 @@ jobs:
           repository: gfwlist/gfwlist
           path: gfwlist
 
-      - uses: petronny/git-config-user@master
-        with:
-          path: .
+      # - uses: petronny/git-config-user@master
+      #   with:
+      #     path: .
 
       - run: |
           cd genpac
