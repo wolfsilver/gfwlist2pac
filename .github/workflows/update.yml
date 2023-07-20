@@ -47,9 +47,17 @@ jobs:
           genpac --pac-proxy "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;" --gfwlist-url - --gfwlist-local gfwlist/gfwlist.txt --user-rule-from user-rule.txt -o gfwlist.pac
           sed '1,7d' -i gfwlist.pac
 
+          # git add gfwlist.pac
+          # git commit -m "[$(LANG=C date)] auto update" || exit 0
+
+          # [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit 0
+
+          # git push origin master
+
+      - name: Push
+        run: |
+          git config --global user.name 'wolfsilver'
+          git config --global user.email 'wolfsilver@users.noreply.github.com'
           git add gfwlist.pac
           git commit -m "[$(LANG=C date)] auto update" || exit 0
-
-          [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit 0
-
           git push origin master
