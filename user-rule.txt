@@ -40,3 +40,4 @@ npmjs.com
 pnpm.io
 cnbeta.com.tw
 jsfiddle.net
+claude.ai
