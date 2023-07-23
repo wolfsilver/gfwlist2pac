@@ -1,4 +1,4 @@
-// Last Modified: Sat Jul 22 19:35:58 UTC 2023
+// Last Modified: Sun Jul 23 19:36:04 UTC 2023
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -2352,6 +2352,7 @@ var rules = [
             "greenreadings.com",
             "greenvpn.net",
             "greenvpn.org",
+            "grindr.com",
             "grotty-monday.com",
             "grow.google",
             "gs-discuss.com",
@@ -2735,6 +2736,7 @@ var rules = [
             "imb.org",
             "imdb.com",
             "img.ly",
+            "imgasd.com",
             "imgchili.net",
             "imgmega.com",
             "imgur.com",
@@ -5795,6 +5797,7 @@ var rules = [
             "xiaohexie.com",
             "xiaolan.me",
             "xiaoma.org",
+            "xiaomi.eu",
             "xiaxiaoqiang.net",
             "xiezhua.com",
             "xihua.es",
