@@ -1,4 +1,4 @@
-// Last Modified: Fri Sep  8 19:36:18 UTC 2023
+// Last Modified: Sat Sep  9 19:36:03 UTC 2023
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -2050,6 +2050,7 @@ var rules = [
             "goagent.biz",
             "goagentplus.com",
             "gobet.cc",
+            "godaddy.com",
             "godfootsteps.org",
             "godns.work",
             "godoc.org",
