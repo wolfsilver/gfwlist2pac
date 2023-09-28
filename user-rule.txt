@@ -46,3 +46,4 @@ subhd.tv
 olevod.com
 ping.pe
 dev.to
+cfl.re
