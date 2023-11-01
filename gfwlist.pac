@@ -1,4 +1,4 @@
-// Last Modified: Tue Oct 31 19:36:09 UTC 2023
+// Last Modified: Wed Nov  1 04:32:00 UTC 2023
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -13,6 +13,7 @@ var rules = [
             "dev.to",
             "github.dev",
             "gitlab.com",
+            "huo720.com",
             "jsfiddle.net",
             "msecnd.net",
             "npmjs.com",
