@@ -50,3 +50,4 @@ cfl.re
 vsassets.io
 olemovienews.com
 huo720.com
+oaistatic.com
