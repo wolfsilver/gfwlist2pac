@@ -1,4 +1,4 @@
-// Last Modified: Sat Nov  4 19:35:47 UTC 2023
+// Last Modified: Sun Nov  5 03:38:25 UTC 2023
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -18,6 +18,7 @@ var rules = [
             "msecnd.net",
             "npmjs.com",
             "npmjs.org",
+            "oaistatic.com",
             "olelive.com",
             "olemovienews.com",
             "olevod.com",
