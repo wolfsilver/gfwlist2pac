@@ -1,4 +1,4 @@
-// Last Modified: Wed Nov 29 19:36:02 UTC 2023
+// Last Modified: Thu Nov 30 04:42:10 UTC 2023
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -6,6 +6,7 @@ var rules = [
         [],
         [
             "ant.design",
+            "builder.io",
             "cfl.re",
             "claude.ai",
             "cloudflare.com",
