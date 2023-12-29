@@ -1,4 +1,4 @@
-// Last Modified: Thu Dec 28 19:36:01 UTC 2023
+// Last Modified: Fri Dec 29 19:35:57 UTC 2023
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -2349,7 +2349,6 @@ var rules = [
             "graphis.ne.jp",
             "graphql.org",
             "gravatar.com",
-            "greasespot.net",
             "great-firewall.com",
             "great-roc.org",
             "greatfire.org",
@@ -3792,6 +3791,7 @@ var rules = [
             "oauth.net",
             "observechina.net",
             "obutu.com",
+            "obyte.org",
             "ocaspro.com",
             "occupytiananmen.com",
             "oclp.hk",
@@ -4157,6 +4157,7 @@ var rules = [
             "psiphon.ca",
             "psiphon3.com",
             "psiphontoday.com",
+            "pstatic.net",
             "pt.im",
             "pts.org.tw",
             "ptt.cc",
@@ -4985,6 +4986,7 @@ var rules = [
             "thomasbernhard.org",
             "thongdreams.com",
             "threadreaderapp.com",
+            "threads.net",
             "threatchaos.com",
             "throughnightsfire.com",
             "thumbzilla.com",
@@ -5726,12 +5728,12 @@ var rules = [
             "witopia.net",
             "wizcrafts.net",
             "wjbk.org",
+            "wmflabs.org",
             "wn.com",
             "wnacg.com",
             "wnacg.org",
             "wo.tc",
             "woeser.com",
-            "woesermiddle-way.net",
             "wokar.org",
             "wolfax.com",
             "wombo.ai",
@@ -5889,6 +5891,7 @@ var rules = [
             "yam.org.tw",
             "yande.re",
             "yandex.com",
+            "yandex.ru",
             "yanghengjun.com",
             "yangjianli.com",
             "yasni.co.uk",
