@@ -1,4 +1,4 @@
-// Last Modified: Fri Jan 12 19:36:10 UTC 2024
+// Last Modified: Sat Jan 13 06:39:12 UTC 2024
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -31,7 +31,8 @@ var rules = [
             "subhd.tv",
             "unpkg.com",
             "visualstudio.com",
-            "vsassets.io"
+            "vsassets.io",
+            "x.com"
         ]
     ],
     [
