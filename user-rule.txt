@@ -54,3 +54,4 @@ oaistatic.com
 oaiusercontent.com
 builder.io
 deepmind.google
+x.com
