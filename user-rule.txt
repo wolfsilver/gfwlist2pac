@@ -56,3 +56,4 @@ builder.io
 deepmind.google
 x.com
 deepl.com
+copilot.microsoft.com
