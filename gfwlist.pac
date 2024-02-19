@@ -1,4 +1,4 @@
-// Last Modified: Sun Feb 18 19:36:00 UTC 2024
+// Last Modified: Mon Feb 19 19:36:14 UTC 2024
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -2659,6 +2659,7 @@ var rules = [
             "hulkshare.com",
             "hulu.com",
             "huluim.com",
+            "humanparty.me",
             "humanrightspressawards.org",
             "hung-ya.com",
             "hungerstrikeforaids.org",
@@ -4936,6 +4937,7 @@ var rules = [
             "telesco.pe",
             "tellme.pw",
             "tenacy.com",
+            "tenor.com",
             "tensorflow.org",
             "tenzinpalmo.com",
             "terabox.com",
