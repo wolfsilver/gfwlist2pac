@@ -57,3 +57,4 @@ deepmind.google
 x.com
 deepl.com
 copilot.microsoft.com
+ouxyi.tienda
