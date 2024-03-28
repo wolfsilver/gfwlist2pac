@@ -1,4 +1,4 @@
-// Last Modified: Wed Mar 27 19:36:23 UTC 2024
+// Last Modified: Thu Mar 28 19:36:02 UTC 2024
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -457,6 +457,7 @@ var rules = [
             "archive.fo",
             "archive.is",
             "archive.li",
+            "archive.md",
             "archive.org",
             "archive.ph",
             "archive.today",
@@ -820,6 +821,7 @@ var rules = [
             "c-spanvideo.org",
             "c100tibet.org",
             "c2cx.com",
+            "cableav.tv",
             "cablegatesearch.net",
             "cachinese.com",
             "cacnw.com",
@@ -1034,6 +1036,7 @@ var rules = [
             "chubun.com",
             "churchinhongkong.org",
             "chushigangdrug.ch",
+            "ciciai.com",
             "cienen.com",
             "cineastentreff.de",
             "cipfg.org",
@@ -1154,6 +1157,7 @@ var rules = [
             "cotweet.com",
             "counter.social",
             "coursehero.com",
+            "coze.com",
             "cpj.org",
             "cq99.us",
             "crackle.com",
