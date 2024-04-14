@@ -1,4 +1,4 @@
-// Last Modified: Sat Apr 13 19:36:12 UTC 2024
+// Last Modified: Sun Apr 14 21:59:16 UTC 2024
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -2712,7 +2712,7 @@ var rules = [
             "ibtimes.com",
             "ibvpn.com",
             "icams.com",
-            "icerocket.com",
+            "icedrive.net",
             "icij.org",
             "icl-fi.org",
             "icoco.com",
@@ -4370,6 +4370,7 @@ var rules = [
             "roodo.com",
             "rosechina.net",
             "rotten.com",
+            "rou.video",
             "rsdlmonitor.com",
             "rsf-chinese.org",
             "rsf.org",
