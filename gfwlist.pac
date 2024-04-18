@@ -1,4 +1,4 @@
-// Last Modified: Wed Apr 17 19:35:56 UTC 2024
+// Last Modified: Thu Apr 18 19:36:13 UTC 2024
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -80,7 +80,6 @@ var rules = [
             "nmp.gov.tw",
             "nmvttc.gov.tw",
             "northguan-nsa.gov.tw",
-            "npm.gov.tw",
             "nstm.gov.tw",
             "ntdmh.gov.tw",
             "ntl.gov.tw",
@@ -1586,6 +1585,7 @@ var rules = [
             "etadult.com",
             "etaiwannews.com",
             "etherdelta.com",
+            "ethermine.org",
             "etherscan.io",
             "etizer.org",
             "etokki.com",
@@ -1625,6 +1625,7 @@ var rules = [
             "ezpc.tk",
             "ezpeer.com",
             "ezua.com",
+            "f2pool.com",
             "f8.com",
             "fa.gov.tw",
             "facebook.br",
@@ -2626,6 +2627,7 @@ var rules = [
             "hrcir.com",
             "hrea.org",
             "hrichina.org",
+            "hrntt.org",
             "hrtsea.com",
             "hrw.org",
             "hrweb.org",
@@ -2991,6 +2993,7 @@ var rules = [
             "juyuange.org",
             "juziyue.com",
             "jwmusic.org",
+            "jwplayer.com",
             "jyxf.net",
             "k-doujin.net",
             "ka-wai.com",
@@ -3739,6 +3742,7 @@ var rules = [
             "noypf.com",
             "npa.go.jp",
             "npa.gov.tw",
+            "npm.gov.tw",
             "npnt.me",
             "nps.gov",
             "npsboost.com",
@@ -4123,6 +4127,7 @@ var rules = [
             "postimg.org",
             "potato.im",
             "potvpn.com",
+            "pourquoi.tw",
             "power.com",
             "powerapple.com",
             "powercx.com",
@@ -6004,6 +6009,7 @@ var rules = [
             "z-lib.org",
             "zacebook.com",
             "zalmos.com",
+            "zamimg.com",
             "zannel.com",
             "zaobao.com",
             "zaobao.com.sg",
