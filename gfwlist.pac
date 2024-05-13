@@ -1,4 +1,4 @@
-// Last Modified: Sun May 12 19:36:12 UTC 2024
+// Last Modified: Mon May 13 19:36:22 UTC 2024
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -935,6 +935,7 @@ var rules = [
             "channelnewsasia.com",
             "chaoex.com",
             "chapm25.com",
+            "chatgpt.com",
             "chatnook.com",
             "chaturbate.com",
             "checkgfw.com",
