@@ -1,4 +1,4 @@
-// Last Modified: Sat Jun  1 19:36:10 UTC 2024
+// Last Modified: Sun Jun  2 19:35:55 UTC 2024
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -4056,6 +4056,7 @@ var rules = [
             "piposay.com",
             "piraattilahti.org",
             "piring.com",
+            "pixeldrain.com",
             "pixelqi.com",
             "pixiv.net",
             "pixnet.in",
@@ -5953,7 +5954,6 @@ var rules = [
             "yingsuoss.com",
             "yinlei.org",
             "yipub.com",
-            "yiyechat.com",
             "yizhihongxing.com",
             "yobit.net",
             "yobt.com",
@@ -6002,13 +6002,13 @@ var rules = [
             "yuanzhengtang.org",
             "yulghun.com",
             "yunchao.net",
-            "yuntipub.com",
             "yuvutu.com",
             "yvesgeleyn.com",
             "ywpw.com",
             "yx51.net",
             "yyii.org",
             "yyjlymb.xyz",
+            "yysub.net",
             "yzzk.com",
             "z-lib.org",
             "zacebook.com",
