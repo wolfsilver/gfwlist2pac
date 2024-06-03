@@ -1,4 +1,4 @@
-// Last Modified: Sun Jun  2 19:35:55 UTC 2024
+// Last Modified: Mon Jun  3 19:36:22 UTC 2024
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -3204,7 +3204,6 @@ var rules = [
             "livedoor.jp",
             "liveleak.com",
             "livemint.com",
-            "livestation.com",
             "livestream.com",
             "livevideo.com",
             "livingonline.us",
@@ -3212,7 +3211,7 @@ var rules = [
             "liwangyang.com",
             "lizhizhuangbi.com",
             "lkcn.net",
-            "llss.me",
+            "lmsys.org",
             "lncn.org",
             "load.to",
             "lobsangwangyal.com",
@@ -4254,9 +4253,9 @@ var rules = [
             "qz.com",
             "r0.ru",
             "r18.com",
-            "ra.gg",
             "radicalparty.org",
             "radiko.jp",
+            "radio-canada.ca",
             "radio.garden",
             "radioaustralia.net.au",
             "radiohilight.net",
@@ -4866,6 +4865,7 @@ var rules = [
             "taipei.gov.tw",
             "taipeisociety.org",
             "taipeitimes.com",
+            "taisounds.com",
             "taiwan-sex.com",
             "taiwanbible.com",
             "taiwancon.com",
