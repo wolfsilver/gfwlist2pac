@@ -1,4 +1,4 @@
-// Last Modified: Tue Jun  4 19:36:02 UTC 2024
+// Last Modified: Wed Jun  5 19:36:11 UTC 2024
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -443,6 +443,7 @@ var rules = [
             "apkmonk.com",
             "apkplz.com",
             "apkpure.com",
+            "apkpure.net",
             "aplusvpn.com",
             "appbrain.com",
             "appdownloader.net",
@@ -1310,6 +1311,7 @@ var rules = [
             "deviantart.net",
             "devio.us",
             "devpn.com",
+            "devv.ai",
             "dfas.mil",
             "dfn.org",
             "dharamsalanet.com",
