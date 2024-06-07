@@ -1,4 +1,4 @@
-// Last Modified: Thu Jun  6 19:36:30 UTC 2024
+// Last Modified: Fri Jun  7 19:36:10 UTC 2024
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -3162,6 +3162,7 @@ var rules = [
             "lianyue.net",
             "liaowangxizang.net",
             "liberal.org.hk",
+            "libertysculpturepark.com",
             "libertytimes.com.tw",
             "libraryinformationtechnology.com",
             "libredd.it",
@@ -5799,6 +5800,7 @@ var rules = [
             "wqyd.org",
             "wrchina.org",
             "wretch.cc",
+            "writesonic.com",
             "wsj.com",
             "wsj.net",
             "wsjhk.com",
