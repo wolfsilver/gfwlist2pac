@@ -17,7 +17,7 @@ jobs:
     steps:
       - name: Install packages
         run: |
-          sudo apt-get install openssh-client python3-setuptools build-base
+          sudo apt-get install openssh-client python3-setuptools
 
       - uses: actions/checkout@v3
         with:
@@ -40,7 +40,7 @@ jobs:
 
       - run: |
           cd genpac
-          sudo pip3 install --no-cache-dir .[server]
+          sudo pip3 install --no-cache-dir .
           export PATH=$PATH:~/.python/current/bin
 
       - name: Update
