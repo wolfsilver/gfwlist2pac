@@ -2,7 +2,7 @@ name: Auto update
 
 on:
   push:
-    branch:
+    branches:
       - master
     paths:
       - 'user-rule.txt'
