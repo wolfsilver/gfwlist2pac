@@ -39,8 +39,9 @@ jobs:
       #     path: .
 
       - run: |
+          echo $PATH
           cd genpac
-          sudo pip3 install --no-cache-dir .
+          sudo pip3 install --no-cache-dir --target=/usr/local/bin genpac .
           export PATH=$PATH:~/.python/current/bin
 
       - name: Update
