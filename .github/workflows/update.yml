@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - master
-    # paths:
-    #   - 'user-rule.txt'
+    paths:
+      - 'user-rule.txt'
   schedule:
     - cron: '33 19 * * *'
   workflow_dispatch:
