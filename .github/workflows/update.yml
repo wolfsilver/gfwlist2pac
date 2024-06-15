@@ -39,10 +39,11 @@ jobs:
       #     path: .
 
       - run: |
-          echo $PATH
-          cd genpac
-          sudo pip3 install --no-cache-dir --target=/home/runner/.local/bin/genpac genpac .
-          ls -l /home/runner/.local/bin/genpac
+          # echo $PATH
+          # cd genpac
+          # sudo pip3 install --no-cache-dir --target=/home/runner/.local/bin/genpac genpac .
+          # ls -l /home/runner/.local/bin/genpac
+          pip install -U genpac
 
       - name: Update
         run: |
