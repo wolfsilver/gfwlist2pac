@@ -25,6 +25,7 @@ jobs:
         with:
           repository: JinnLynn/genpac
           path: genpac
+          ref: '1223b93d6a3c24830e493325d64505911d1bc8bd'
 
       - uses: actions/checkout@v3
         with:
@@ -36,12 +37,9 @@ jobs:
       #     path: .
 
       - run: |
-          # pip install -U genpac
-          # pip install -U https://github.com/JinnLynn/genpac/archive/dev.tar.gz
-          pip3 install git+https://github.com/JinnLynn/genpac.git@master -U
-          # cd genpac
-          # sed 's/from collections import Callable/from collections.abc import Callable/g' -i $(grep 'from collections import Callable' . -rIl)
-          # sudo python3 setup.py install
+          cd genpac
+          sed 's/from collections import Callable/from collections.abc import Callable/g' -i $(grep 'from collections import Callable' . -rIl)
+          sudo python3 setup.py install
 
       - name: Update
         run: |
