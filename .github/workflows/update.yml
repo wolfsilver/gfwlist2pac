@@ -38,9 +38,7 @@ jobs:
 
       - run: |
           cd genpac
-          # sed 's/from collections import Callable/from collections.abc import Callable/g' -i $(grep 'from collections import Callable' . -rIl)
-          # sudo python3 setup.py install
-          sudo python3 install --no-cache-dir genpac[server]
+          sudo pip3 install --no-cache-dir genpac[server]
 
       - name: Update
         run: |
