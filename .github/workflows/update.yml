@@ -2,6 +2,8 @@ name: Auto update
 
 on:
   push:
+    branch:
+      - master
     paths:
       - 'user-rule.txt'
   schedule:
@@ -15,7 +17,7 @@ jobs:
     steps:
       - name: Install packages
         run: |
-          sudo apt-get install openssh-client python3-setuptools build-base linux-headers
+          sudo apt-get install openssh-client python3-setuptools build-base
 
       - uses: actions/checkout@v3
         with:
