@@ -37,9 +37,10 @@ jobs:
 
       - run: |
           # pip install -U genpac
-          cd genpac
+          pip install -U https://github.com/JinnLynn/genpac/archive/dev.tar.gz
+          # cd genpac
           # sed 's/from collections import Callable/from collections.abc import Callable/g' -i $(grep 'from collections import Callable' . -rIl)
-          sudo python3 setup.py install
+          # sudo python3 setup.py install
 
       - name: Update
         run: |
