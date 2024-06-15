@@ -39,6 +39,7 @@ jobs:
       - run: |
           cd genpac
           sudo python3 -m pip install --no-cache-dir .[server]
+          export PATH=$PATH:~/.python/current/bin
 
       - name: Update
         run: |
