@@ -60,3 +60,4 @@ copilot.microsoft.com
 ouxyi.tienda
 linux.do
 olevod.tv
+bingapis.com
