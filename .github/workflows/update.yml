@@ -42,11 +42,11 @@ jobs:
           # echo $PATH
           # cd genpac
           # sudo pip3 install --no-cache-dir --target=/home/runner/.local/bin/genpac genpac .
-          ls -l /home/runner/.local/lib
+          # ls -l /home/runner/.local/lib
           which python3
           python3 --version
           pip install -U genpac
-          sed 's/from collections import Callable/from collections.abc import Callable/g' -i $(grep 'from collections import Callable' /home/runner/.local/lib/python3.10/site-packages/genpac/ -rIl)
+          # sed 's/from collections import Callable/from collections.abc import Callable/g' -i $(grep 'from collections import Callable' /home/runner/.local/lib/python3.10/site-packages/genpac/ -rIl)
 
       - name: Update
         run: |
