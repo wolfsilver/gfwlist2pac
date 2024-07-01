@@ -42,7 +42,7 @@ jobs:
           # echo $PATH
           # cd genpac
           # sudo pip3 install --no-cache-dir --target=/home/runner/.local/bin/genpac genpac .
-          # ls -l /home/runner/.local/bin/genpac
+          ls -l /home/runner/.local/bin/genpac
           which python3
           python3 --version
           pip install -U genpac
