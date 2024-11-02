@@ -1,4 +1,4 @@
-// Last Modified: Fri Nov  1 19:36:40 UTC 2024
+// Last Modified: Sat Nov  2 02:45:25 UTC 2024
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -18,6 +18,7 @@ var rules = [
             "deepmind.google",
             "dev.to",
             "github.dev",
+            "githubcopilot.com",
             "gitlab.com",
             "huo720.com",
             "jsfiddle.net",
