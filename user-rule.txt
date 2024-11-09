@@ -31,7 +31,7 @@ ant.design
 npmjs.org
 unpkg.com
 msecnd.net
-visualstudio.com
+! visualstudio.com
 olelive.com
 cdn.sstatic.net
 gitlab.com
