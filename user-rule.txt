@@ -63,3 +63,4 @@ olevod.tv
 bingapis.com
 msauth.net
 githubcopilot.com
+metacubex.one
