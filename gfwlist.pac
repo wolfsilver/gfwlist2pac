@@ -1,4 +1,4 @@
-// Last Modified: Wed Nov 13 00:51:15 UTC 2024
+// Last Modified: Wed Nov 13 05:37:15 UTC 2024
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -13,6 +13,7 @@ var rules = [
             "claude.ai",
             "cloudflare.com",
             "cnbeta.com.tw",
+            "codesandbox.io",
             "copilot.microsoft.com",
             "deepl.com",
             "deepmind.google",
