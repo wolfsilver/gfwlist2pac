@@ -55,6 +55,7 @@ oaiusercontent.com
 builder.io
 deepmind.google
 x.com
+x.ai
 deepl.com
 copilot.microsoft.com
 ouxyi.tienda
