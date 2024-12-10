@@ -66,3 +66,4 @@ msauth.net
 githubcopilot.com
 metacubex.one
 codesandbox.io
+sora.com
