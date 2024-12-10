@@ -1,4 +1,4 @@
-// Last Modified: Mon Dec  9 19:36:28 UTC 2024
+// Last Modified: Tue Dec 10 00:50:01 UTC 2024
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
@@ -38,6 +38,7 @@ var rules = [
             "ouxyi.tienda",
             "ping.pe",
             "pnpm.io",
+            "sora.com",
             "subhd.tv",
             "unpkg.com",
             "vsassets.io",
