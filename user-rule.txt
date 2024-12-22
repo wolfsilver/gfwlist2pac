@@ -53,7 +53,7 @@ huo720.com
 oaistatic.com
 oaiusercontent.com
 builder.io
-deepmind.google
+*.google
 x.com
 x.ai
 deepl.com
@@ -67,4 +67,3 @@ githubcopilot.com
 metacubex.one
 codesandbox.io
 sora.com
-labs.google
