@@ -19,17 +19,17 @@ jobs:
         run: |
           sudo apt-get install openssh-client python3-setuptools
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.TOKEN }}
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: JinnLynn/genpac
           path: genpac
           # ref: '1223b93d6a3c24830e493325d64505911d1bc8bd'
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: gfwlist/gfwlist
           path: gfwlist
