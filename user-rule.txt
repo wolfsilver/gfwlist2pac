@@ -67,3 +67,4 @@ githubcopilot.com
 metacubex.one
 codesandbox.io
 sora.com
+sagernet.org
