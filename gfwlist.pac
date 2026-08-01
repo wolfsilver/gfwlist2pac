@@ -1,4 +1,4 @@
-// Last Modified: Fri Jul 31 20:42:25 UTC 2026
+// Last Modified: Sat Aug  1 20:27:45 UTC 2026
 
 var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
 var rules = [
